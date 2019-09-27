@@ -2,4 +2,14 @@
 
 파일 수정
 
+<<<<<<< HEAD
 merge confilict
+=======
+변화를 주기로 결정했음
+
+skjffa
+
+Good Bye world
+
+Good Good
+>>>>>>> hotfix
